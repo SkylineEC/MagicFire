@@ -168,7 +168,6 @@
 				6D015EB75E305428700A509F /* Pods-MagicFireTests.debug.xcconfig */,
 				506438893F0CB7FD28D24CF4 /* Pods-MagicFireTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
